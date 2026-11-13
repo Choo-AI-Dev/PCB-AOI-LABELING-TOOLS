@@ -7,7 +7,7 @@ import math
 from datetime import datetime
 from pathlib import Path
 
-from PySide6.QtWidgets import (https://github.com/AI-Inspact-Lab/PCB-AOI-LABELING-TOOLS/tree/main
+from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QLabel,
     QPushButton, QSlider, QGroupBox, QFileDialog, QMessageBox, QScrollArea,
     QSizePolicy, QListWidget, QListWidgetItem, QSplitter
